@@ -1,0 +1,41 @@
+body {
+    width:960px;
+}
+
+#name-box { 
+    float: left;
+}
+
+#name { 
+    position: absolute;
+}
+
+.links {
+    float: right;
+    position: relative;
+    bottom: -10px;
+}
+
+#container {
+    position: absolute;
+    top: 80px;
+    width: 960px;
+}
+
+h1 {
+    margin: 25px;
+}
+
+#content {
+    margin: 0 auto;
+
+}
+
+img {
+    float: left;
+    margin: 25px;
+}
+
+
+
+
